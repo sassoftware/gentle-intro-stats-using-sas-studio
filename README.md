@@ -45,7 +45,7 @@ Questions are provided to test your knowledge and practice your skills.
 *Hardback* ISBN: 978-1-64295-541-5
 
 <a href="https://www.sas.com/storefront/aux/en/spstatintro/73143_excerpt.pdf">Book Excerpt and Table of Contents</a><p>
-<a hred="https://support.sas.com/en/books/authors/ron-cody.html">About the Author</a>
+<a href="https://support.sas.com/en/books/authors/ron-cody.html">About the Author</a>
 
 
   <a href="https://www.sas.com/store/books/categories/getting-started/a-gentle-introduction-to-statistics-using-sas-studio/prodBK_73143_en.html"><img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store" align= 'center'/> </a>
