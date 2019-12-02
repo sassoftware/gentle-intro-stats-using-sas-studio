@@ -1,3 +1,1 @@
-This repository contains the sample code for the book *A Gentle Introduction to Statistics Using SAS<sup>Ⓡ</sup> Studio*. 
-
-Data files are .xlsx files. Sample programs are .sas files.
+Here you will find the datasets referenced in Ron Cody's A Gentle Introduction to Statistics Using SAS Studio. For any questions or comments on these datasets, please email saspress@sas.com.
