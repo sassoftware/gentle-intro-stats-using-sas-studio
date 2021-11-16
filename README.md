@@ -1,6 +1,6 @@
 <a href="https://www.sas.com/store/books/categories/getting-started/a-gentle-introduction-to-statistics-using-sas-studio/prodBK_73143_en.html"><img src='Gentle_cover.jpg' align= 'right'/></a>
 
-# A Gentle Introduction to Statistics Using SAS<sup>Ⓡ</sup> Studio 
+# Archived repository - A Gentle Introduction to Statistics Using SAS<sup>Ⓡ</sup> Studio 
 Ron Cody
  
  <a href="https://www.sas.com/store/books/categories/getting-started/a-gentle-introduction-to-statistics-using-sas-studio/prodBK_73143_en.html"><img src="https://img.shields.io/badge/Buy%20Now-SAS%20Book%20Store-blue.svg" alt="SAS Book Store" align= 'center'/> </a>
@@ -8,7 +8,7 @@ Ron Cody
 
 
 
-
+### Notice: this book is no longer in publication and the repository is now archived.
 This repository contains the sample code for the book *A Gentle Introduction to Statistics Using SAS<sup>Ⓡ</sup> Studio*. 
 
 Data files are .xlsx files. Sample programs are .sas files.
